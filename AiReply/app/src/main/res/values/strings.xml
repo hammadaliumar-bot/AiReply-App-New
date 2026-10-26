@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Reply</string>
+    <string name="keepalive_channel_name">Auto-reply running</string>
+    <string name="keepalive_title">AI Reply is active</string>
+    <string name="keepalive_text">Watching approved WhatsApp contacts</string>
+</resources>
